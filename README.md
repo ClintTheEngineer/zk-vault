@@ -16,6 +16,8 @@ Create an encrypted vault, add the files and folders you want to protect, and ex
 
 > **⚠️ Security status:** Cander ZK Vault is an experimental open-source project and has **not undergone an independent security audit**. Do not rely on it as the sole protection for irreplaceable or extremely high-value data. See [Security & Limitations](#security--limitations).
 
+
+Demo at: https://zk-vault-1iu7.onrender.com/
 ---
 
 ## ✨ Why Cander?
